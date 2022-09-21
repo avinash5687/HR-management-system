@@ -1,4 +1,4 @@
-Live site link :- hr-management-system-by-avinash.netlify.app
+Live site link :- https://hr-management-system-by-avinash.netlify.app
 
 # Getting Started with Create React App
 
